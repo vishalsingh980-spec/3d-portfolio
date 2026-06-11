@@ -3,33 +3,34 @@ import "./styles/Work.css";
 import WorkImage from "./WorkImage";
 import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
+const base = import.meta.env.BASE_URL;
 const projects = [
   {
     title: "DreamFolks Card Platform",
     category: "API-First Card Benefit Platform · Fintech",
     tools: "15+ Banking Partners · 3M+ Cardholders · Real-time Benefit Redemption · Lounge · F&B · Golf",
-    image: "/images/sapphire.png",
+    image: `${base}images/sapphire.png`,
     link: "https://www.linkedin.com/in/vishalsinghiim2005/",
   },
   {
     title: "Spend-Based Programs",
     category: "Cost Optimisation Product · DreamFolks",
     tools: "40% Reduction in Cardholder Benefit Costs · Tier-1 Banks · Scalable Benefit Architecture",
-    image: "/images/Maxlife.png",
+    image: `${base}images/Maxlife.png`,
     link: "https://www.linkedin.com/in/vishalsinghiim2005/",
   },
   {
     title: "Google Knowledge Graph",
     category: "Search Relevance Product · Vaco / Google",
     tools: "18% Quality Score Improvement · 12+ Schemas Consolidated · Agile Backlog · US–India Delivery",
-    image: "/images/Solidx.png",
+    image: `${base}images/Solidx.png`,
     link: "https://www.linkedin.com/in/vishalsinghiim2005/",
   },
   {
     title: "Compliance Programme",
     category: "Enterprise Governance Product · DreamFolks",
     tools: "PCI DSS · ISO · SOC · ITGC · Zero Critical Findings · Regulatory Roadmap Ownership",
-    image: "/images/bond.png",
+    image: `${base}images/bond.png`,
     link: "https://www.linkedin.com/in/vishalsinghiim2005/",
   },
 ];
