@@ -13,14 +13,14 @@ import {
 
 const textureLoader = new THREE.TextureLoader();
 const imageUrls = [
-  "/images/react2.webp",
-  "/images/next2.webp",
-  "/images/node2.webp",
-  "/images/express.webp",
-  "/images/mongo.webp",
-  "/images/mysql.webp",
-  "/images/typescript.webp",
-  "/images/javascript.webp",
+  "/images/jira.png",
+  "/images/figma.png",
+  "/images/notion.png",
+  "/images/aws.png",
+  "/images/amplitude.png",
+  "/images/google.png",
+  "/images/microsoft.png",
+  "/images/miro.png",
 ];
 const textures = imageUrls.map((url) => textureLoader.load(url));
 
@@ -168,7 +168,10 @@ const TechStack = () => {
 
   return (
     <div className="techstack">
-      <h2> My Techstack</h2>
+      <h2>My PM Toolkit</h2>
+      <p style={{ textAlign: "center", opacity: 0.5, fontSize: "13px", letterSpacing: "1px", marginTop: "-10px", marginBottom: "10px" }}>
+        JIRA · Figma · Notion · Amplitude · AWS · Google Analytics · Microsoft 365 · Miro
+      </p>
 
       <Canvas
         shadows

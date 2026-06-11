@@ -87,20 +87,21 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>AI & AUTOMATION</h3>
-              <h4>Workflow Intelligence for Organizations</h4>
+              <h3>PRODUCT DISCOVERY</h3>
+              <h4>Problem to Opportunity</h4>
               <p>
-                AI specialist helping organizations automate workflows—internal ops
-                and customer-facing—so teams ship faster with less manual work.
+                I identify unmet user needs, size markets, and define the right
+                bets—translating messy problems into crisp opportunity statements
+                that align engineering, design, and business from day one.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">LLMs &amp; agents</div>
-                <div className="what-tags">Workflow design</div>
-                <div className="what-tags">RAG &amp; retrieval</div>
-                <div className="what-tags">Evals &amp; guardrails</div>
-                <div className="what-tags">Integrations</div>
-                <div className="what-tags">Product strategy</div>
+                <div className="what-tags">User Research</div>
+                <div className="what-tags">Problem Framing</div>
+                <div className="what-tags">Opportunity Sizing</div>
+                <div className="what-tags">Competitive Analysis</div>
+                <div className="what-tags">Jobs-to-be-Done</div>
+                <div className="what-tags">Roadmap Prioritisation</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -124,21 +125,21 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BUILD &amp; SCALE</h3>
-              <h4>Shipping AI in Production</h4>
+              <h3>GO-TO-MARKET</h3>
+              <h4>Concept to Launch</h4>
               <p>
-                I build the systems behind it: APIs, data, voice/real-time, and
-                full-stack products—production-ready, not slide decks.
+                I own the full arc from PRD to market—feature definition,
+                cross-functional alignment, launch planning, and post-launch
+                adoption—so every release lands with intent, not just code.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Python</div>
-                <div className="what-tags">REST &amp; real-time APIs</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Cloud &amp; infra</div>
+                <div className="what-tags">PRD &amp; User Stories</div>
+                <div className="what-tags">Launch Planning</div>
+                <div className="what-tags">Stakeholder Alignment</div>
+                <div className="what-tags">User Adoption</div>
+                <div className="what-tags">Agile / Scrum</div>
+                <div className="what-tags">PM Mentorship</div>
               </div>
               <div className="what-arrow"></div>
             </div>

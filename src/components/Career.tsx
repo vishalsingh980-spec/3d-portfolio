@@ -15,58 +15,57 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Co-Founder</h4>
-                <h5>CallHQ.ai</h5>
+                <h4>Senior Product Manager</h4>
+                <h5>DreamFolks Services Ltd</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Building CallHQ.ai, a voice AI platform for
-              automating customer calls, support, and conversions.
+              15+ banking partners · 3M+ cardholders · API-first benefit suite
+              (lounge, F&amp;B, golf) · Spend-Based Programs: 40% cost reduction
+              for tier-1 banks · PCI DSS, ISO, SOC, ITGC — zero critical findings ·
+              Mentored 2 PMs
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Adobe</h4>
-                <h5>6+ years · Noida</h5>
+                <h4>Products Lead</h4>
+                <h5>Vaco Binary Semantics · Google Knowledge Panels</h5>
               </div>
-              <h3>2017–24</h3>
+              <h3>2021–23</h3>
             </div>
             <p>
-              Senior Lead Software Engineer (Feb 2024 – May 2024). Lead Software
-              Engineer (Feb 2021 – Feb 2024). Software Engineer II (Dec 2017 –
-              Feb 2021): internationalization, globalization, and localization for
-              Adobe Technical Communication Suite; functional and linguistic testing
-              strategy; in-house tooling; collaboration with product and engineering
-              for high-quality localized releases.
+              Google Knowledge Graph · 12+ schemas consolidated · 18% search
+              relevance improvement · Agile backlog ownership · US–India
+              distributed delivery
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Consultant</h4>
-                <h5>Genpact Headstrong </h5>
+                <h4>Asst. Products Manager</h4>
+                <h5>WNS Global Services · Google Ads</h5>
               </div>
-              <h3>2016–17</h3>
+              <h3>2019–21</h3>
             </div>
             <p>
-              Sep 2016 – Nov 2017. Developed and maintained WCF services consumed
-              by the UI; deployment support across environments; NUnit tests and
-              coverage; bug fixes from QA and users; database work.
+              Google Ads data enrichment platform · Product KPI definition &amp;
+              tracking · Agile sprint management · US–India cross-functional
+              delivery
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Sf Engineer</h4>
-                <h5>Infogain</h5>
+                <h4>Asst. Manager — Ops &amp; Analytics</h4>
+                <h5>Concentrix</h5>
               </div>
-              <h3>2013-16</h3>
+              <h3>2014–19</h3>
             </div>
             <p>
-              Software engineering across enterprise projects, contributing to
-              design, development, and delivery of business applications.
+              24/7 operations leadership · 22% productivity improvement ·
+              15% attrition reduction · Onboarding &amp; training programs
             </p>
           </div>
         </div>

@@ -5,32 +5,32 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "CallHQ",
-    category: "Voice AI Calling Platform",
-    tools: "Voice AI, Calling Automation, CRM Integrations",
-    image: "/images/callhq.png",
-    link: "https://callhq.ai",
+    title: "DreamFolks Card Platform",
+    category: "API-First Card Benefit Platform · Fintech",
+    tools: "15+ Banking Partners · 3M+ Cardholders · Real-time Benefit Redemption · Lounge · F&B · Golf",
+    image: "/images/sapphire.png",
+    link: "https://www.linkedin.com/in/vishalsinghiim2005/",
   },
   {
-    title: "Whatsapp Automation",
-    category: "WABA Application",
-    tools: "WhatsApp Business API, Workflow Automation, Notifications",
-    image: "/images/whatsapp.png",
-    link: "https://whatsapp.callhq.ai",
+    title: "Spend-Based Programs",
+    category: "Cost Optimisation Product · DreamFolks",
+    tools: "40% Reduction in Cardholder Benefit Costs · Tier-1 Banks · Scalable Benefit Architecture",
+    image: "/images/Maxlife.png",
+    link: "https://www.linkedin.com/in/vishalsinghiim2005/",
   },
   {
-    title: "Broki",
-    category: "Real Estate Platform for FnB Industry",
-    tools: "Property Discovery, Lead Management, Marketplace Workflows",
-    image: "/images/broki.png",
-    link: "https://broki.in",
+    title: "Google Knowledge Graph",
+    category: "Search Relevance Product · Vaco / Google",
+    tools: "18% Quality Score Improvement · 12+ Schemas Consolidated · Agile Backlog · US–India Delivery",
+    image: "/images/Solidx.png",
+    link: "https://www.linkedin.com/in/vishalsinghiim2005/",
   },
   {
-    title: "Orrdr.com",
-    category: "Ecommerce Platform and Mobile App",
-    tools: "Ecommerce, Mobile Experience, Order Management",
-    image: "/images/orrdr.png",
-    link: "https://orrdr.com",
+    title: "Compliance Programme",
+    category: "Enterprise Governance Product · DreamFolks",
+    tools: "PCI DSS · ISO · SOC · ITGC · Zero Critical Findings · Regulatory Roadmap Ownership",
+    image: "/images/bond.png",
+    link: "https://www.linkedin.com/in/vishalsinghiim2005/",
   },
 ];
 
@@ -64,7 +64,7 @@ const Work = () => {
     <div className="work-section" id="work">
       <div className="work-container section-container">
         <h2>
-          My <span>Work</span>
+          Key <span>Achievements</span>
         </h2>
 
         <div className="carousel-wrapper">
@@ -107,7 +107,7 @@ const Work = () => {
                           {project.category}
                         </p>
                         <div className="carousel-tools">
-                          <span className="tools-label">Tools & Features</span>
+                          <span className="tools-label">Highlights & Impact</span>
                           <p>{project.tools}</p>
                         </div>
                       </div>
